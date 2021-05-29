@@ -5,7 +5,7 @@
 
 The project is from udemy, and following this course I learned a lot about structuring my SCSS files, animation, layout and more. I will detail more below about what I learned.
 
-Natours is the first part of a big lecture which aims to build 3 projects with 3 different technology.It cover Float, Flex and Grid.
+Natours is the first part of a big lecture which aims to build 3 projects with 3 different technology.It cover Float, Flex and Grid. Natours is using float for layout.
 
 So I will resume here what I learned form this one :
 <hr>
