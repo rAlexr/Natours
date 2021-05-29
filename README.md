@@ -34,6 +34,6 @@ So I will resume here what I learned form this one :
 
 **NPM**
 
-- install / use modules / pracice
+- install / use modules / practice
 
 This project was built by following the [Udemy Course](https://www.udemy.com/course/advanced-css-and-sass/).
