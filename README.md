@@ -9,6 +9,7 @@ Natours is the first part of a big lecture which aims to build 3 projects with 3
 
 So I will resume here what I learned form this one :
 <hr>
+
 **Structure**
 
 - 7 to 1 method for SCSS
@@ -17,6 +18,7 @@ So I will resume here what I learned form this one :
 
 - reuse snippets of code / strengthen the understanding of **DRY** principle
 <hr>
+
 **Style**
 
 - SCSS / how a css preprocessor works / strong understanding of variables/mixins/partials/functions and structure in general
