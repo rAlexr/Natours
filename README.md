@@ -28,6 +28,5 @@ So I will resume here what I learned form this one :
 - responsove design / images / how top aply media on SCSS partials properly
 
 - how to create a card with 2 perspective 
-
-```
+<hr />
 
