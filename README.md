@@ -23,7 +23,7 @@ So I will resume here what I learned form this one :
 
 - SCSS / how a css preprocessor works / strong understanding of variables/mixins/partials/functions and structure in general
 
-- how to animate in different states / lots of css triks
+- how to animate in different states / lots of css tricks
 
 - good practice for layouts
 
