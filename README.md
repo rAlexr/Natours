@@ -36,4 +36,9 @@ So I will resume here what I learned form this one :
 
 - install / use modules / practice
 
+**Css Summary**
+
+- transform:translate(all), animation-name:name, transform: skewY(), transform: scale(), perspective:150px, backface-visibility: hidden,<br>
+transform: rotateY(deg), :diferent states of element:focus.etc.
+
 This project was built by following the [Udemy Course](https://www.udemy.com/course/advanced-css-and-sass/).
